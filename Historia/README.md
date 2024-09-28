@@ -14,4 +14,6 @@ Los objetivos al crear este nuevo sistema fueron:
 + Capaz de manejar grandes proyectos
 
 
+![](https://pbs.twimg.com/media/FN0Wh4CXsAE0DtN.jpg)
+
 _Te imaginas a Linus Torvalsds guardando el kernel de linux como: kernel-version1, kernel-final, kernel-final-final, ..._
